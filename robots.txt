@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://draknorixdev.github.io/VAYRA-WebSitesi/sitemap.xml

@@ -1,0 +1,10 @@
+{
+  "name": "VAYRA",
+  "short_name": "VAYRA",
+  "description": "Sayma. Düşünme. Uygula.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#EEF3FB",
+  "theme_color": "#EEF3FB",
+  "icons": [{"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}, {"src": "assets/brand/app-icon.png", "sizes": "192x192", "type": "image/png"}]
+}
